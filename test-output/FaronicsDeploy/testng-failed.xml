@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [FaronicsDeploy]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.faronics.ultilities.Reporting"/>
+  </listeners>
+  <test thread-count="3" parallel="tests" name="ChromeTest(failed)">
+    <parameter name="Browsers" value="Chrome"/>
+    <classes>
+      <class name="com.faronics.testCases.TC_LoginTest_001">
+        <methods>
+          <include name="logintest"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.faronics.testCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [FaronicsDeploy] -->

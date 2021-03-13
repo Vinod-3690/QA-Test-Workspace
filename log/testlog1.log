@@ -1,0 +1,63 @@
+2021-03-07 19:37:04,588 [main] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:37:07,838 [main] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:37:08,580 [main] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:37:22,757 [main] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:41:39,972 [main] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:41:47,809 [main] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:41:49,104 [main] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:42:34,052 [main] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:48:13,345 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:48:22,110 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:48:23,554 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:48:50,763 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:53:16,932 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:53:23,823 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:53:24,842 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:53:56,569 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:54:28,644 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:54:37,332 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:54:37,597 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:54:52,455 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:55:19,315 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:55:22,221 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:55:22,756 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-07 19:56:08,836 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-07 19:58:35,650 [TestNG-tests-3] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:58:35,650 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:58:42,277 [TestNG-tests-2] INFO Faronics Test - Url opening..!!!
+2021-03-07 19:58:42,500 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-07 19:58:46,868 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:32:04,127 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 05:32:07,062 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 05:32:07,411 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:32:25,071 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 05:41:37,618 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 05:41:41,202 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 05:41:41,668 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:41:58,031 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 05:42:01,667 [TestNG-tests-1] INFO Faronics Test - Test case Passed..!!!
+2021-03-08 05:43:32,137 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 05:43:36,070 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 05:43:36,639 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:43:52,213 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 05:45:05,664 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 05:45:11,603 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 05:45:12,074 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:45:27,802 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 05:45:31,302 [TestNG-tests-1] INFO Faronics Test - Test case Failed...!!!
+2021-03-08 05:50:37,108 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 05:50:40,055 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 05:50:40,656 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 05:50:54,807 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 05:50:58,665 [TestNG-tests-1] ERROR Faronics Test - Test case Failed...!!!
+2021-03-08 06:01:49,659 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 06:01:52,111 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 06:01:52,438 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 06:02:01,338 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 06:02:10,031 [TestNG-tests-1] ERROR Faronics Test - Test case Failed...!!!
+2021-03-08 07:35:10,880 [TestNG-tests-1] INFO Faronics Test - Url opening..!!!
+2021-03-08 07:35:13,668 [TestNG-tests-1] INFO Faronics Test - User entered the Email Address..!!
+2021-03-08 07:35:14,408 [TestNG-tests-1] INFO Faronics Test - User entered the Password..!!
+2021-03-08 07:35:30,731 [TestNG-tests-1] INFO Faronics Test - User clicked on the Sign In button..!!
+2021-03-08 07:35:38,296 [TestNG-tests-1] INFO Faronics Test - Test case Passed..!!!
+2021-03-08 07:35:42,292 [TestNG-tests-1] INFO Faronics Test - User logout Successfully...!!!
